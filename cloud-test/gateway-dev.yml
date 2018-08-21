@@ -6,3 +6,5 @@ zuul:
 
 server:
   port: 4000
+
+test: 123
