@@ -4,5 +4,5 @@ zuul:
       path: /testapi/**
       serviceId: test
 
-sserver:
+server:
   port: 8801
