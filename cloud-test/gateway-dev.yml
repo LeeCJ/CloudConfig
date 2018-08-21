@@ -3,6 +3,3 @@ zuul:
     test:
       path: /testapi/**
       serviceId: test
-
-server:
-  port: 8801
