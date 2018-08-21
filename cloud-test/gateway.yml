@@ -1,0 +1,8 @@
+zuul:
+  routes:
+    test:
+      path: /testapi/**
+      serviceId: test
+
+server:
+  port: 4000
