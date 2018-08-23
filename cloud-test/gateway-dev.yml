@@ -1,3 +1,5 @@
+server:
+  port: 8750
 zuul:
   routes:
     test:
