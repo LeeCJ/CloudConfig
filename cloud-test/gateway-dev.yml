@@ -1,3 +1,4 @@
+foo: ttt
 zuul:
   routes:
     test:
