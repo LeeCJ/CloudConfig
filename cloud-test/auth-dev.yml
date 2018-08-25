@@ -1,4 +1,5 @@
-security:
-    user:
-        name: lee
-        password: qwe
+spring:
+    security:
+        user:
+            name: lee
+            password: qwe
