@@ -1,4 +1,4 @@
 security:
-  user:
-    name:lee
-    password:qwe
+    user:
+        name: lee
+        password: qwe
